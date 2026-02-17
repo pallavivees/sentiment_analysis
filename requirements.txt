@@ -1,0 +1,7 @@
+streamlit>=1.30
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+nltk==3.9.1
+matplotlib==3.10.8
+seaborn==0.13.2
